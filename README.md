@@ -1,3 +1,0 @@
-# Gamso Gamedev
-
-test
