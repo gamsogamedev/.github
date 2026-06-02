@@ -1,7 +1,7 @@
 # Repositório de códigos da GAMSo
 ___
 
-# Repositórios Unity
+# Assets de códigos Unity
 ___
 
 Para utilizá-los, você pode importá-los pela URL 
